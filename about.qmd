@@ -1,8 +1,7 @@
 ---
 title: "About Me"
 ---
-
-\![Out on the water](figures/photo.jpg)
+This is a sentence about me. 
 
 ```{r}
 1 + 1

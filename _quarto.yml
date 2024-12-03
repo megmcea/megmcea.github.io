@@ -9,13 +9,14 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - about.qmd
+      - text: "About Me"
+        href: about.qmd
       - connect.qmd
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 
