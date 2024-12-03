@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "megmcea.github.io",
+    "title": "Meg McEachran, PhD",
     "section": "",
     "text": "This is the personal website of Dr. Meg McEachran, PhD.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nQuarto is easy to use."
   },
@@ -19,5 +19,19 @@
     "title": "Home",
     "section": "",
     "text": "Testing the functionality of href"
+  },
+  {
+    "objectID": "connect.html",
+    "href": "connect.html",
+    "title": "Let’s Connect",
+    "section": "",
+    "text": "Want to chat? Find me on:\nLinkedIn\nBluesky\nGithub\nor email me at mcmgthompson (at) gmail (dot) com"
+  },
+  {
+    "objectID": "connect.html#lets-connect",
+    "href": "connect.html#lets-connect",
+    "title": "Let’s Connect",
+    "section": "",
+    "text": "Want to chat? Find me on:\nLinkedIn\nBluesky\nGithub\nor email me at mcmgthompson (at) gmail (dot) com"
   }
 ]

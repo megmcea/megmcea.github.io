@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+\![Out on the water](figures/photo.jpg)
 
 ```{r}
 1 + 1

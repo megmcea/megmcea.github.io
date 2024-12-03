@@ -3,13 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Meg McEachran, PhD"
   navbar:
+    background: primary
+    search: true
     left:
-      - href: Home.qmd
-        text: Home
+      - text: "Home"
+        href: index.qmd
       - about.qmd
-
+      - connect.qmd
 format:
   html:
     theme: cosmo
