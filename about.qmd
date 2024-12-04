@@ -3,6 +3,9 @@ title: "About Me"
 ---
 This is a sentence about me. 
 
+This is a photo of me: 
+![me](figures/photo3.jpg)
+
 ```{r}
 1 + 1
 ```

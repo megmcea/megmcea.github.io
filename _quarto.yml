@@ -11,7 +11,8 @@ website:
         href: index.qmd
       - text: "About Me"
         href: about.qmd
-      - connect.qmd
+      - text: "Let's Connect"
+        href: connect.qmd
 format:
   html:
     theme: cosmo

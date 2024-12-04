@@ -1,8 +1,6 @@
 ---
-title: "xx"
+title: "Contact Information"
 ---
-
-## Let's Connect
 
 Want to chat? Find me on:
 

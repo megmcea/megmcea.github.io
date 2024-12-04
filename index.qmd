@@ -11,3 +11,8 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```
 
 Quarto is easy to use.
+
+Things to do during lab meeting:
+-change size of photo
+-change theme
+-add a research page

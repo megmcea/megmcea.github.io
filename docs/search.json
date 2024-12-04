@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Meg McEachran, PhD",
     "section": "",
-    "text": "This is the personal website of Dr. Meg McEachran, PhD.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nQuarto is easy to use."
+    "text": "This is the personal website of Dr. Meg McEachran, PhD.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nQuarto is easy to use.\nThings to do during lab meeting: -change size of photo -change theme -add a research page"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This is a sentence about me.\nThis is a photo of me: \n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "Home.html",
@@ -23,14 +23,14 @@
   {
     "objectID": "connect.html",
     "href": "connect.html",
-    "title": "Let’s Connect",
+    "title": "Contact Information",
     "section": "",
     "text": "Want to chat? Find me on:\nLinkedIn\nBluesky\nGithub\nor email me at mcmgthompson (at) gmail (dot) com"
   },
   {
     "objectID": "connect.html#lets-connect",
     "href": "connect.html#lets-connect",
-    "title": "Let’s Connect",
+    "title": "xx",
     "section": "",
     "text": "Want to chat? Find me on:\nLinkedIn\nBluesky\nGithub\nor email me at mcmgthompson (at) gmail (dot) com"
   }
