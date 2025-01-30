@@ -13,6 +13,8 @@ website:
         href: about.qmd
       - text: "Let's Connect"
         href: connect.qmd
+      - text: "My CV"
+        href: cv.qmd
 format:
   html:
     theme: cosmo

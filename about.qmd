@@ -1,11 +1,11 @@
 ---
 title: "About Me"
 ---
-This is a sentence about me. 
 
-This is a photo of me: 
-![me](figures/photo3.jpg)
+I'm an ecosystem health professional dedicated to leadership at the intersection of science and decision making. Got an infectious disease, invasive species, wildlife or fisheries management problem? Let's chat!
 
-```{r}
-1 + 1
-```
+Current Position: Postdoctoral Associate in the [DiRenzo Lab](https://grazielladirenzo.weebly.com/lab-members.html), University of Massachusetts Amherst and Massachusetts Cooperative Fish and Wildlife Research Unit
+
+Visiting Scientist with the United States Geological Survey, [Disease Decision Analysis and Research](https://www.usgs.gov/centers/eesc/disease-decision-analysis-and-research) team
+
+![](figures/photo3.jpg)

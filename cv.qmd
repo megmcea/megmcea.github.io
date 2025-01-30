@@ -1,0 +1,455 @@
+---
+title: "cv"
+---
+
+Below is my Curriculum Vitae. Download a copy [here](https://drive.google.com/file/d/1f5XwrAF2V5hGvAywX3HxEL3fPrsLqcBw/view?usp=sharing).
+
+Last updated 1/30/2025.
+
+**Current Position**
+
+**Postdoctoral Associate** 2022-present
+
+University of Massachusetts Amherst, Massachusetts Cooperative Fish and Wildlife Research Unit; Visiting Scientist at United States Geological Survey Eastern Ecological Science Center, Disease Decision Analysis and Research
+
+-   Lead, implement, and analyze research to inform One Health problem-solving
+
+-   Lead facilitated structured decision-making processes for state, federal, and tribal wildlife agencies managing infectious disease in free-ranging wildlife
+
+-   Apply statistical and predictive population and disease models and decision analytical tools in R to support decision-making for wildlife and human health in coupled social-ecological systems
+
+-   Develop and implement surveys and other tools for assessing social and economic dimensions of wildlife disease management
+
+-   Communicate in both written (i.e. peer reviewed papers, emails, documents) and oral forms with a range of audiences including state, federal, and tribal natural resource agencies
+
+-   Mentor graduate students in thesis writing and professional development
+
+-   Develop and cultivate relationships with state, federal, tribal, and academic collaborators
+
+-   Secure internal and external funding for research projects via grant applications
+
+**Education**
+
+**University of Minnesota-Twin Cities**
+
+Conservation Sciences, PhD 2022
+
+Dissertation: *“Developing an ecosystem health approach for reducing risk of fish pathogen introduction in a coupled social-ecological system”*
+
+Committee: Nicholas Phelps (adviser), David Fulton, Dominic Travis, Andrew Drake
+
+**University of Saint Thomas**
+
+Biology, BS and Catholic Studies, BA 2016
+
+GPA: 3.83, magna cum laude
+
+**Research Experience**
+
+-   **Graduate Research Fellow** 2018-2022 Minnesota Aquatic Invasive Species Research Center (MAISRC)
+
+    -    Designed, led, and implemented multi-year research projects to estimate risk and support decision-making for preventing invasive species and fish pathogen introduction
+
+    -   Wrote and served as student investigator on research grants
+
+    -   Designed and implemented statewide surveys in Qualtrics to assess perceptions, behaviors, and attitudes among agency, industry, and public stakeholder groups
+
+    -   Designed and evaluated quantitative risk assessment model of fish pathogen introduction risk via release of live baitfish by recreational anglers
+
+    -   Analyzed quantitative survey data using factor analysis and structural equation methods in R
+
+    -   Prepared and published peer-reviewed manuscripts
+
+    -   Communicated with collaborators, stakeholders, and the public via public presentations and non-peer reviewed written work
+
+    -   Hired, trained, and supervised volunteers, staff, and undergraduate researchers
+
+-   **Director Resource Fellow** Science Applications Program, United States Fish and Wildlife Service 2020
+
+    -   Project Title: *Aquatic connectivity in the Northeast Region: Challenges and opportunities for social and ecological outcomes*
+
+    -   Supervisor: Rick Bennett
+
+    -   Collaborated with regional directorate staff to identify conservation program needs
+
+    -   Developed qualitative, semi-structured interview questionnaire and administered to USFWS biologists and program staff
+
+    -   Assessed the adequacy of current aquatic connectivity and fish passage projects and made recommendations for improved monitoring and reporting
+
+    -   Communicated results with regional leadership via presentations and reports    
+
+-   **Research Technician** University of Minnesota-Twin Cities 2017
+
+    -   Conducted field sampling of fish kill mortality events, conducted fish necropsies, and prepared tissue samples for virology, bacteriology, and other pathological tests
+
+    -   Coordinated with state duty officer and state pathology lab to evaluate causes of fish kill mortality events
+
+    -   Prepared fish tissue for visual and qPCR-based screening for microsporidian parasite
+
+    -   Assisted in literature review for identifying realized niche of invasive bivalve species
+
+    -   Cared for fish and plants in experimental setting
+
+-   **Research Technician** University of St. Thomas 2013-2016
+
+    -   Conducted field sampling for limnological and aquatic organism analysis, including sampling for water quality, aquatic invertebrates, and fish tissues
+
+    -   Conducted lab-based tasks for analysis including preparation of tissues for stable isotope analysis and water chemistry and filtering
+
+    -   Analyzed stable isotope data and prepared manuscript for publication
+
+**Peer-Reviewed Publications**
+
+**McEachran, MC**; Don Carlos, A; Cotterill, GG; Cole, EK; Cook, JD. Estimating the social and economic consequences of proposed management alternatives at the National Elk Refuge in Jackson, Wyoming. Chapter E of Decision Analysis in Support of the National Elk Refuge Bison and Elk Management Plan. U.S. Geological Survey Scientific Investigations Report 2024-5119. <https://doi.org/10.3133/sir20245119E>
+
+Cook, JD; **McEachran, MC**; Cotterill, GG; Cole, EK. Bison population dynamics, harvest, and human conflict potential under feedground management alternatives on the National Elk Refuge in Jackson, Wyoming. Chapter D of Decision Analysis in Support of the National Elk Refuge Bison and Elk Management Plan. U.S. Geological Survey Scientific Investigations Report 2024-5119. <https://doi.org/10.3133/sir20245119D>
+
+Cook, JD; Cotterill, GG**; McEachran, MC**; Graves, TA; Cole, EK; Cross, PC. Decision framing overview and performance of management alternatives for bison and elk feedground management on the National Elk Refuge. Chapter A of Decision Analysis in Support of the National Elk Refuge Bison and Elk Management Plan. U.S. Geological Survey Scientific Investigations Report. <https://doi.org/10.3133/sir20245119A>
+
+Cotterill, GG; Cross, PC; Cole, EK; Cook, JC; **McEachran, MC**; Graves, TA. Evaluating elk space-use and conflict under proposed management alternatives at the National Elk Refuge. Chapter C of Decision Analysis in Support of the National Elk Refuge Bison and Elk Management Plan. U.S. Geological Survey Scientific Investigations Report. <https://doi.org/10.3133/sir20245119C>
+
+Feehan, MJR; Cook, JD; **McEachran**, **MC**; McCarthy,S; Wattles, D; Crawford, M; Huguenin, M; DiRenzo, GV. 2024. Structured decision-making workshop: Chronic wasting disease management of cervids in Massachusetts. U.S. Department of Interior, Fish and Wildlife Service, Cooperator Science Series FWS/CSS-161-2024, Washington, D.C. <https://doi.org/10.3996/css54253236>
+
+Tonkovich, M; **McEachran, MC**; McCoy, C; Berl, REW; Runge, MC; Cook, JD. Structured decision-making workshop: CWD Management in Ohio: Report for Policymakers. 2024. U.S. Geological Survey Cooperator’s Report.
+
+**McEachran, MC**; Teitelbaum, C; Rosenblatt, E; Harvey, J; Yin, S; Rudolph, FJ; Arce, F; Bletz, M; Mummah, R; DiRenzo, GV; Mosher, BA; Prosser, DJ; Couret, J; Runge, MC; Grant, EHC; Cook, JD. Reframing wildlife disease management problems using decision analysis. 2024. Conservation Biology: e14284. <https://doi.org/10.1111/cobi.14284>
+
+**McEachran, MC**; Mladonicky, J; Picasso, C; Drake, DAR; Phelps, NBD. Release of live baitfish by recreational anglers drives fish pathogen introduction risk. 2023. Preventive Veterinary Medicine 217, 105960. https://doi.org/10.1016/j.prevetmed.2023.105960
+
+**McEachran, MC**; Hofelich Mohr, A.; Lindsay, T.; Fulton, D. C.; Phelps, NBD. Patterns of live baitfish use and release in a regulated landscape. 2022. North American Journal of Fisheries Management 42:2, 295-306. <https://doi.org/10.1002/nafm.10747>
+
+**McEachran, MC**; Mor, SK; Phelps, NBD. Detection of non-target species and pathogens in the baitfish supply chain. 2021. Management of Biological Invasions 12:2, 363-377. https://doi.org/10.3391/mbi.2021.12.2.10
+
+Morrison, A.; Thelen, M. A.; Howe, S. E.; Zimmer, K.D.; Herwig B. R.; Staples, D.F.; **McEachran, MC.** 2021. Impacts of zebra mussels (Dreissena polymorpha) on niche size and niche overlap among fish species in a mesotrophic lake. Biological Invasions 23, 2985-3002. <https://doi.org/10.1007/s10530-021-02553-0>
+
+**McEachran, MC**; Sampedro, F.; Travis, D. A.; Phelps, NBD. An expert-based ranking method for assessing biological threats posed by the live baitfish trade. 2020. Transboundary and Emerging Diseases 68:6, 3463-3473. <https://doi.org/10.1111/tbed.13951>
+
+**McEachran, MC**; Trapp, RS; Zimmer, KD; Herwig, BR; Hegedus, CE; Herzog, CE; Staples, DF. Stable isotopes indicate zebra mussels (Dreissena polymorpha) increase dependence of lake food webs on littoral energy sources. 2019. Journal of Freshwater Biology 64:1, 183-196. <https://doi.org/10.1111/fwb.13206>
+
+Padhi, SK; Tolo, IE; **McEachran, MC**; Primus, A; Mor, SK; Phelps, NBD. Koi herpesvirus and carp oedema virus: infections and coinfections during mortality events of wild common carp in the United States. 2019. Journal of Fish Diseases 42:11, 1609-1621. <https://doi.org/10.1111/jfd.13082>
+
+USGS and Klamath Tribes. Structured Decision Making for Chronic Wasting Disease Management. **In press**. U.S. Geological Survey Fact Sheet.
+
+Hoven, B; **McEachran, MC**; Feehan, M; DiRenzo, GV. Chronic wasting disease (CWD) knowledge, risk perception, and management acceptance are influenced by media engagement and trust among deer hunters in Massachusetts. **In review** at Human Dimensions of Wildlife.
+
+Smith, D; DiRenzo, GVD; Fleming, J; **McEachran, MC**; Grant, EHC. An analysis of the linked decisions in the confiscation of illegally traded turtles. **In review** at Conservation Science and Practice.
+
+Hoven, B; **McEachran, MC**; Feehan M; DiRenzo, GV. Chronic wasting disease (CWD) knowledge among hunters in Massachusetts, a state where CWD has not been detected. **In preparation.**
+
+**McEachran, MC**; Hammel, A; Brown, EC; Landon, A; Fulton, D; Phelps, NBD. Application of the Theory of Planned Behavior to illegal baitfish release behavior in Minnesota, USA. **In preparation.**
+
+**Code and Data Products**
+
+**McEachran, MC,** and Cook, JD. 2024. Socioeconomic effects of bison and elk management alternatives on National Elk Refuge. Version 1.0.0; U.S. Geological Survey software release. Reston, VA. <https://doi.org/10.5066/P1DZS7MW>
+
+DiRenzo, GV; **McEachran, MC;** Hoven, BM; Feehan, MJR. 2024. Code for Chronic wasting disease knowledge risk perception and management acceptance are influenced by media engagement and trust among deer hunters in Massachusetts. Version 1.0.0; U.S. Geological Survey software release. Reston, VA. <https://doi.org/10.5066/P9FBOMS5>
+
+**McEachran,** MC; Phelps, NBD; Drake, DAR; Mladonicky, JM; Picasso, C. 2022. Data and code in support of: Release of live baitfish by recreational anglers drives fish pathogen introduction risk. Retrieved from the Data Repository for the University of Minnesota (DRUM), <https://doi.org/10.13020/g22a-ty37>
+
+**Teaching Experience**
+
+-   **Adjunct Faculty Member** Metropolitan State University, College of Natural Sciences 2019
+
+    -   Course**:** NSCI 201 Minnesota Ecology and Conservation Biology (4 credits)
+
+    -   Role: designed and served as instructor of record for lecture and lab course for undergraduate non-majors
+
+-   **Teaching Assistant** UMN College of Veterinary Medicine2021
+
+    -   Course: GCC 3032 Ecosystem Health: Leadership at the Intersection of Humans, Animals, and the Environment (3 credits)
+
+    -   Role: provided logistical, technical and administrative support to multidisciplinary teaching team for fully online interactive seminar-based course for graduate and undergraduate students
+
+-   **Preparing Future Faculty Course Participant** UMN Graduate School Fall 2019
+
+    -   Course: GRAD 8101Preparing Future Faculty (2 credits)
+
+    -   Role: enrolled as a student in the course and participated in all professional development activities including pedagogical exercises, syllabus development, designing formative and summative assessments, facilitating activities, and delivering lectures'
+
+-   **Instructor** UMN Osher Lifelong Learning Institute 2019
+
+    -   Course: Minnesota Ecology and Conservation Biology (7 weeks)
+
+    -   Role: proposed, designed, and led a course for senior citizen learners; including lecture, activities, field trips, and labs
+
+-   **Ecosystem & Planetary Health Graduate Scholars Leader** UMN Institute on the Environment 2020
+
+    -   Program: IonE Graduate Scholars: Ecosystem and Planetary Health
+
+    -   Role: Design, facilitate, and lead educational, professional development, and DEI content for an interdisciplinary group of graduate students, including discussions, guest speakers, interactive projects, and field trip
+
+**Grants and Fellowships**
+
++-----+------------------------------------------------------------------------------------------------------------+--------+---------------+-------+
+|     |                                                                                                            |        |               |       |
++-----+------------------------------------------------------------------------------------------------------------+--------+---------------+-------+
+|     | United States Geological Survey                                                                            |        | 2022-2023     |       |
+|     |                                                                                                            |        |               |       |
+|     | *Title*: *Carcass disposal behavior and contributions to CWD transmission risk for free-ranging cervids*   |        | **\$15,176**  |       |
+|     |                                                                                                            |        |               |       |
+|     | *Role*: *Co-investigator*                                                                                  |        |               |       |
+|     |                                                                                                            |        |               |       |
+|     |                                                                                                            |        |               |       |
++-----+------------------------------------------------------------------------------------------------------------+--------+---------------+-------+
+|     |                                                                                                            |        |               |       |
++-----+------------------------------------------------------------------------------------------------------------+--------+---------------+-------+
+|     | Minnesota Aquatic Invasive Species Research Center                                                         |        | 2021-2022     |       |
+|     |                                                                                                            |        |               |       |
+|     | *Title: Examining motivations for illegal bait release by anglers*                                         |        | **\$106,539** |       |
+|     |                                                                                                            |        |               |       |
+|     | *Role: Co-investigator*                                                                                    |        |               |       |
+|     |                                                                                                            |        |               |       |
+|     |                                                                                                            |        |               |       |
++-----+------------------------------------------------------------------------------------------------------------+--------+---------------+-------+
+|     |                                                                                                            |        |               |       |
++-----+------------------------------------------------------------------------------------------------------------+--------+---------------+-------+
+
++-----+---------------------------------------------------------------------+--------+---------------+-------+
+|     |                                                                     |        |               |       |
++-----+---------------------------------------------------------------------+--------+---------------+-------+
+|     | Minnesota Aquatic Invasive Species Research Center                  |        | 2018-2020     |       |
+|     |                                                                     |        |               |       |
+|     | *Title: What’s In Your Bucket? Quantifying AIS Introduction Risk*   |        | **\$199,784** |       |
+|     |                                                                     |        |               |       |
+|     | *Role: Co-investigator*                                             |        |               |       |
++-----+---------------------------------------------------------------------+--------+---------------+-------+
+|     |                                                                     |        |               |       |
++-----+---------------------------------------------------------------------+--------+---------------+-------+
+|     | University of Minnesota Doctoral Dissertation Fellowship            |        | 2020-2021     |       |
+|     |                                                                     |        |               |       |
+|     |                                                                     |        | **\$25,000**  |       |
++-----+---------------------------------------------------------------------+--------+---------------+-------+
+|     |                                                                     |        |               |       |
++-----+---------------------------------------------------------------------+--------+---------------+-------+
+
+**Selected Volunteering, Leadership, and Professional Service**
+
+**Cathedral Hill Montessori School** September 2021-present
+
+Vice Chair, Development Committee Member
+
+**The Starfish Foundation** April 2021-2023
+
+Advancement Committee Data Analyst
+
+**USGS Assistant Unit Leader Hiring Committee** 2020
+
+Graduate Representative
+
+**Conservation Sciences Association of Graduate Students Executive Board** 2020-2022
+
+Communications Coordinator, Treasurer
+
+**Wildlife Disease Association-UMN Student Chapter** 2020-2021
+
+      Research Chair
+
+**Between Cities: A Journal for Christian Thought**        2019-2020
+
+Associate Editor
+
+**MAISRC Graduate Fellows Association** 2019-present
+
+Chair
+
+**Fisheries, Wildlife, and Conservation Biology Voting Members** 2019-2020
+
+Graduate Representative to the Faculty
+
+**Conservation Science Research Spotlight and Fundraiser Committee** 2018-2020
+
+Committee Member
+
+**Relevant Training and Coursework**
+
+*Graduate Coursework*
+
+·       Conservation Biology
+
+·       Contemporary Problems in Conservation Biology
+
+·       Advanced Programming and Data Analysis in R
+
+·       Statistics for Ecologists
+
+·       Statistics for Agriculture and Natural Resource Professionals
+
+·       Using Risk Analysis Tools
+
+·       Environmental Conflict Management, Leadership, and Planning
+
+·       Attitudes and Social Behavior
+
+·       Survey Design, Sampling, and Implementation
+
+·       Risk, Resilience, and Decision-Making
+
+·       Wildlife Infectious Disease
+
+*Workshops and Trainings*
+
+·       National Conservation Training Center: ALC 3190 Elicitation and Facilitation for Structured Decision-Making, June 12-16 2023, Sheperdstown, WV
+
+·       National Conservation Training Center: ALC 3191 Structured Decision Making Tools, January 23-February 3, 2023, virtual
+
+·       International Clinics on Infectious Disease Dynamics and Data Program: Clinic on Dynamical Approaches to Infectious Disease Data, December 11-17 2021, virtual
+
+·       National Conservation Training Center: ALC 3171 Introduction to Structured Decision Making, June 13-17 2022, Sheperdstown, WV
+
+·       Curran-Bauer Analytics: Applied Measurement Modeling, May 24-28 2021, virtual
+
+·       Curran-Bauer Analytics: Introduction to Structural Equation Modeling, May 6-8 2020, virtual
+
+·       Beyond Attitude Consulting, Minnesota Department of Natural Resources: Community Based Social Marketing and Behavior Change Workshop, October 26-27 2019, St. Cloud MN
+
+**Selected Presentations**
+
+\* denotes presentation award, + denotes invited speaker           
+
+**Massachusetts Cooperative Fish and Wildlife Research Unit Annual Meeting** April 2024
+
+*What to do about CWD: A structured decision-making workshop with MassWildlife*
+
+**The Wildlife Society Annual Meeting (40 attending)** November 2023
+
+*Special symposium coordinator: Advancing disease decision making and research with cross-sector collaborations*
+
+**Wildlife Disease Association** August 2023
+
+*Hoven, B.; **McEachran, M.;** Feehan, M.; DiRenzo, G. Knowledge, behavior, and risk perception with regards to Chronic wasting disease (CWD) among hunters in Massachusetts, a state where CWD has not been detected*
+
+**4^th^ International Chronic Wasting Disease Symposium (300)** May 2023
+
+*Integrating social science to make better decisions for cervid carcass management*
+
+**+MN DNR Fish Academy** March 2023
+
+*Small fish, big problem? Challenges and opportunities for AIS prevention*
+
+**+North Central Regional Aquaculture Conference (45 attendees)** February 2023
+
+*Bait business: challenges and opportunities for AIS prevention*
+
+**University of Washington FISH 423 Course (20)** November 2022
+
+*Risk and decision-making for invasive species management*
+
+**+Wisconsin Aquatic Invasive Species Partnership (50)** October 2022
+
+*Pathogens of fish: overview for AIS practitioners*
+
+**+Mississippi River Basin Panel Meeting** October 2022
+
+*Assessing the risk of fish pathogen introduction via illegal release of live baitfish by recreational anglers*
+
+**International Symposium on Aquatic Animal Health (asynchronous)** September 2022
+
+*Assessing the risk of fish pathogen introduction via illegal release of live baitfish by recreational anglers*
+
+**Minnesota Aquatic Invasive Species Research Center Showcase (40)** September 2022
+
+*Examining motivations for illegal release of live baitfish*
+
+**+North American Invasive Species Management Association Webinar (150)** August 2022
+
+*Why do anglers release baitfish? An application of the Theory of Planned Behavior*
+
+**+Minnesota Department of Natural Resources: AIS Staff Meeting (20)** March 2022
+
+*Examining motivations for baitfish release among Minnesota anglers*
+
+**Midwest Fish and Wildlife Conference (40)** February 2022
+
+*Small fish, big problem: Quantifying the risk of pathogen introduction via the live baitfish pathway*
+
+**\*Minnesota Chapter of the American Fisheries Society Annual Meeting** February 2022
+
+*Examining motivations for baitfish release among Minnesota anglers*
+
+**+MNDNR Invasive Species Staff Meeting** January 2022
+
+*Examining the social dimensions of live baitfish use in Minnesota*
+
+**+Minnesota Department of Natural Resources: Fisheries Staff Meeting** October 2021
+
+*Illegal release of live baitfish by anglers drives fish pathogen introduction risk*
+
+**MAISRC Research Showcase (50)** September 2021
+
+*Motivations for illegal baitfish release among Minnesota anglers*
+
+**North American Invasive Species Management Association (60)**              September 2021
+
+*Special Session Organizer:  Ecosystem Health Approaches to Invasive Species Management*
+
+**Northeast Fish Health Committee Annual Meeting (50)** July 2021
+
+*Small Fish, Big Problem: Understanding the risk of AIS introduction via release of live baitfish by anglers*
+
+**\*American Fisheries Society Fish Health Section Virtual Seminar (30)**        June 2021
+
+*Assessing the Risk of Fish Pathogen Introduction via the Illegal Release of Live Baitfish in Minnesota*
+
+**+MAISRC AIS Detectors Webinar (200)** February 2021
+
+*What's in YOUR bucket? Understanding the risk of AIS introduction via release of live baitfish by anglers*
+
+**Midwest Fish and Wildlife Conference (90)** February 2021
+
+*Small fish, big problem: Quantifying the risk of pathogen introduction via the live baitfish pathway*
+
+**MNDNR Invasive Species Staff Meeting** October 2021
+
+**Upper Midwest Invasive Species Conference** November 2020
+
+**North American Invasive Species Management Association** October 2020
+
+**American Fisheries Society Fish Health Section Virtual Seminar**         June 2020
+
+**\*Minnesota Chapter of the American Fisheries Society Annual Meeting** February 2020
+
+**Ecosystem Health Seminar** September 2019
+
+**Minnesota Aquatic Invasive Species Research Showcase** September 2019
+
+**+Invasive Mussel Collaborative Webinar** August 2019
+
+**+Minnesota DNR Sentinel Lakes Meeting** March 2019
+
+**Upper Midwest Invasive Species Conference**                                              October 2018
+
+**\*Conservation Science “Science in Seconds” Competition** Spring2018
+
+**Minnesota Chapter of the American Fisheries Society**             February 2018
+
+**Minnesota Lakes and Rivers Aquatic Invaders Summit** February 2018
+
+**Minnesota Aquatic Invasive Species Research Showcase**                           September 2018
+
+![](file:///C:/Users/MMCEAC~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)**Association Memberships**
+
+**American Fisheries Society**
+
+*Fish Health Section, Minnesota Chapter*
+
+**The Wildlife Society**
+
+ *Early Career Section, Wildlife Disease Working Group, Human Dimensions Working Group*
+
+**Backcountry Hunters and Anglers**
+
+**Media appearances and non-peer reviewed work**
+
+**Prairie Sportsmen**
+
+**McEachran, M.C.** and Duhr, M. “Minnow Mayhem: MAISRC Research Tracks the Hitchhikers in Minnesota’s Bait Supply”. Pelican Lakes Association Newsletter, Summer 2021. Pelicanlakesassociation.org
+
+Reddit “Ask Me Anything” outreach event on invasive species, r/aquariums subreddit, March 20, 2021.  https://reddit.com/r/aquariums/comments/m8kq0i/invasive_species_ama_Saturday_march_20_2021
+
+Serna, J. “Dangerous bait: why you shouldn’t dump leftovers into the lake”. Outdoor News, January 15, 2021, p. 16 (Midwest regional print newspaper)
+
+Cherveny, T. “Dump those minnow buckets where they belong”. West Central Tribune, March 1, 2021, available at <https://www.wctrib.com/northland-outdoors/6904010-Dump-those-minnow-buckets-where-they-belong> (Central Minnesota print and online newspaper)
+
+**McEachran, M. C**. “Breaking bread: building the kingdom of God through food.” Between Cities: A Journal of Christian Thought, March 2, 2020, available at https://www.betweencities.org/post/breaking-bread-how-christians-can-build-the-kingdom-of-god-through-food (community print and online journal)
+
+**References available upon request.**

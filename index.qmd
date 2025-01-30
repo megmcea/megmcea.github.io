@@ -2,17 +2,8 @@
 title: "Meg McEachran, PhD"
 ---
 
-This is the personal website of Dr. Meg McEachran, PhD.
+*Helping conservation professionals make better decisions*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Given decades of research advancing our knowledge of disease, invasive species, and other threats in our environment, why do we still struggle to apply these insights to meet conservation goals? Because decision-making is about more than just empirical science and quantitative data: these insights need to be leveraged and incorporated with the values and objectives of decision-makers to be meaningfully applied to solve real problems.
 
-```{r}
-1 + 1
-```
-
-Quarto is easy to use.
-
-Things to do during lab meeting:
--change size of photo
--change theme
--add a research page
+I'm an ecosystem health professional dedicated to leadership at the intersection of science and decision making. I bring a range of quantitative skills in both ecological and socio-economic methods to support evidence-based policy and decision making for leaders in fisheries and wildlife conservation. Want to make better decisions that balance the needs of humans, animals, and the environment we all depend on? Let's make something happen.
