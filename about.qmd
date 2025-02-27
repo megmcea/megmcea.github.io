@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-I'm an ecosystem health professional dedicated to leadership at the intersection of science and decision making. Got an infectious disease, invasive species, wildlife or fisheries management problem? Let's chat!
+I'm an ecosystem health professional dedicated to leadership at the intersection of science and decision making. Got an disease, invasive species, wildlife or fisheries management problem? Let's chat!
 
 Current Position: Postdoctoral Associate in the [DiRenzo Lab](https://grazielladirenzo.weebly.com/lab-members.html), University of Massachusetts Amherst and Massachusetts Cooperative Fish and Wildlife Research Unit
 
